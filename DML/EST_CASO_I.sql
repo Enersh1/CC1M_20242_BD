@@ -1,6 +1,12 @@
 #USANDO BANCO DE DADOS ESTUDO DE CASO 1 CC1M
 USE EC1_CC1M;
-########################################################################################################################
+
+# ##################################################################################################### #
+#                                                                                                       #
+#                                                  DML                                                  #
+#                                                                                                       #
+# ##################################################################################################### #
+
 # | INSERT | UPDATE | DELETE | [TABELA FORNECEDORES]
 INSERT INTO FORNECEDORES (FORNEC_COD, FORNEC_NOME, FORNEC_RUA, FORNEC_NUMRUA, FORNEC_BAIRRO, FORNEC_CIDADE, FORNEC_ESTADO, FORNEC_CODPOSTAL, FORNEC_TELEFONE, FORNEC_PAIS, FORNEC_CONTATO)
 VALUES
