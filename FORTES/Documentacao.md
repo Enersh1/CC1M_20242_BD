@@ -54,3 +54,10 @@ Campos principais:
 - relat_text: Texto detalhado do relatório.
 - user_cod: Usuário que submeteu o relatório.
 - proj_cod: Projeto ao qual o relatório se refere.
+
+## Trabalho realizado por:
+- Guilherme Campo,
+- Alexandre Miguel,
+- Nathália Caldonho,
+- Geilson Lucas,
+- Jesus Fabian
