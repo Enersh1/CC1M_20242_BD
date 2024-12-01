@@ -55,7 +55,7 @@ Campos principais:
 - user_cod: Usuário que submeteu o relatório.
 - proj_cod: Projeto ao qual o relatório se refere.
 
-## Trabalho realizado por:
+## Membros do grupo:
 - Guilherme Campo,
 - Alexandre Miguel,
 - Nathália Caldonho,
